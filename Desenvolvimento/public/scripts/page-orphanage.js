@@ -15,7 +15,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png').addTo(map);
 
 //Create icon
 const icon = L.icon({
-    iconUrl: "./public/images/map-marker.svg", //caminho está sendo chamado do html, dentro da pasta root
+    iconUrl: "/images/map-marker.svg", //caminho está sendo chamado do html, dentro da pasta root
     iconSize: [58, 68],
     iconAnchor: [29, 68],
     popupAnchor: [170, 2]
