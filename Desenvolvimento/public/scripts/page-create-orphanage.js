@@ -90,3 +90,13 @@ function toggleSelect(event){
     //verificar qual botão foi clicado
     input.value = button.dataset.value
 }
+
+function validade(event){
+    //validar se lat e lng estão preenchidos
+    const lat = document.querySelector('.map-container input[name="lat"]')
+    if (lat.value == "") {
+        event.preventDefault()
+        alert('Selecione a localidade do orfanato no mapa.')
+    }
+    
+}

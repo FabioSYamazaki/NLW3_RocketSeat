@@ -16,7 +16,9 @@
     
     column-gap: 1.6rem;
 
-    transition: background-color 200ms
+    transition: background-color 200ms;
+
+    text-decoration: none;
 }
 
 .primary-button:hover {
