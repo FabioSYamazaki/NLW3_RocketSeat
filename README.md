@@ -1,2 +1,6 @@
-# NLW3_RocketSeat
- Respositório destinado as atividades do NLW3 da Rocketseat
+NLW3_RocketSeat - Projeto Happy
+=====
+
+Desafio: Desenvolvimento de uma aplicação WEB para conectar Orfanatos à pessoas interessadas em ajudar.
+
+[Vídeo da Aplicação](https://www.youtube.com/watch?v=HaDyd45HeJo)
